@@ -42,7 +42,7 @@ const Navigation = () => {
               onClick={(e) => { e.preventDefault(); scrollToSection('#home'); }}
               className="text-xl font-bold text-gradient cursor-pointer"
             >
-              KSG
+              Koshal Goyal
             </a>
 
             {/* Desktop Navigation */}
